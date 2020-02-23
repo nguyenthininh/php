@@ -75,7 +75,7 @@
                 ]
         ],
         [
-            "image" => "images/vsmart-live-6g.jpg",
+            "image" => "images/vsmart-active-3-6gb-ram-1_6_2.jpg",
             "promotion"=>"Lì xì 1.000.000đ",
             "info" =>
                 [
@@ -135,7 +135,7 @@
                 ]
         ],
         [
-            "image" => "images/vsmart-active1-plus.jpg",
+            "image" => "images/vsmart-active-3-6gb-ram-1_6_2.jpg",
             "promotion"=>"Trả góp 0%",
             "info" =>
                 [
@@ -156,7 +156,7 @@
 
         ],
         [
-            "image" => "images/vsmart-live-6g.jpg",
+            "image" => "images/vsmart-live-xanh_1.jpg",
             "promotion"=>"Lì xì 1.000.000đ",
             "info" =>
                 [
