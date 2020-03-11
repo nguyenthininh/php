@@ -2,7 +2,7 @@
 //sql injection  docj
 
 
-session_start();
+//session_start();
 $username = $_POST["username"];
 $password = $_POST["password"];
 //var_dump($username);
@@ -54,7 +54,7 @@ if($result  -> num_rows > 0){
     $_SESSION["usersession"] = $user;
     header("Location: index.php");
 }else{
-//    $_SESSION['login_err'] = "Username or password is wrong";
+    $_SESSION['login_err'] = "Username or password is wrong";
 //    echo "No resuft found";
 //    header("location: login.php");
     echo "login failded";
